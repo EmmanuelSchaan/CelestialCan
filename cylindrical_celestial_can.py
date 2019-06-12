@@ -75,6 +75,7 @@ ax.set_xlabel(r'$\frac{H}{\tan(\text{dec})} \times \cos(\text{RA})$ [cm]')
 ax.set_ylabel(r'$\frac{H}{\tan(\text{dec})} \times \sin(\text{RA})$ [cm]')
 #
 fig.savefig("./figures/top.pdf", bbox_inches='tight')
+fig.savefig("./figures/top.png", bbox_inches='tight')
 fig.clf()
 #plt.show()
 
@@ -100,6 +101,7 @@ ax.set_xlabel(r'Circumference $=R\times \text{RA}$ [cm]')
 ax.set_ylabel(r'Height $=R \times \tan(\text{dec})$ [cm]')
 #
 fig.savefig("./figures/side.pdf", bbox_inches='tight')
+fig.savefig("./figures/side.png", bbox_inches='tight')
 fig.clf()
 #plt.show()
 
