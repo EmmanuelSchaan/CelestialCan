@@ -1,9 +1,7 @@
 # Celestial Can
 
-*"If the stars were mine
-I'd tell you what I'd do
-I'd put the stars right in a jar and give them all to you"*
-- Melody Gardot
+*"If the stars were mine, I'd tell you what I'd do. I'd put the stars right in a jar and give them all to you"*
+ Melody Gardot
 
 Build your own accurate planetarium by poking holes in a metal can and putting an LED inside, to project the stars on your ceiling.
 Input the radius and height of your can, select how many stars you want to see and which hemisphere, and get images to print and stick on the can to know where to poke the holes.
