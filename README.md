@@ -15,7 +15,7 @@ And the side image, to be wrapped around the side of the can:
 ![](figures/side.png)
 
 Stick the template on your can, making sure that RA=0 coincides on the top and the side of the can, and you are good to go! 
-![](IMG_20190728_102017.jpg)
-![](IMG_20190728_201233.jpg)
-![](IMG_20190728_201025.jpg)
-![](IMG_20190728_201100.jpg)
+![](figures/my_can/IMG_20190728_102017.jpg)
+![](figures/my_can/IMG_20190728_201233.jpg)
+![](figures/my_can/IMG_20190728_201025.jpg)
+![](figures/my_can/IMG_20190728_201100.jpg)
