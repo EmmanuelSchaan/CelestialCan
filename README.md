@@ -14,4 +14,8 @@ Did you recognize the big dipper? It appears inverted because you are looking fr
 And the side image, to be wrapped around the side of the can:
 ![](figures/side.png)
 
-Make sure that RA=0 coincides on the top and the side of the can, and you are good to go!
+Stick the template on your can, making sure that RA=0 coincides on the top and the side of the can, and you are good to go! 
+![](IMG_20190728_102017.jpg)
+![](IMG_20190728_201233.jpg)
+![](IMG_20190728_201025.jpg)
+![](IMG_20190728_201100.jpg)
